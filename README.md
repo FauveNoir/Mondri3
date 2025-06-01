@@ -8,6 +8,8 @@
 |_|  |_|\___/|_| |_|\__,_|_|  |_|____/
 ```
 
+<img src="./screenshot-mondri3.png" alt="Rendering" />
+
 
 ## Français
 Ce script écoute l'ouverture de nouvelles fenêtres dans i3 et choisit automatiquement le mode de division (split horizontal ou vertical) en fonction du ratio largeur/hauteur de la fenêtre.
